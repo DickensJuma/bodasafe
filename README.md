@@ -1,3 +1,62 @@
+
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the repo and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+
+  <h3 align="center"> FikaSafe</h3>
+
+  <p align="center">
+    A Web platform for a safe, Boda Boda experience
+    <br />
+    <a href="https://github.com/DickensJuma/bodasafe"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="
+    ">View Demo</a>
+    ·
+    <a href="https://github.com/DickensJuma/bodasafe/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/DickensJuma/bodasafe/issues">Request Feature</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+- [Installation](#installation)
+  - [Built With](#built-with)
+- [Live version](#live-version)
+- [Contributor](#contributor)
+- [Acknowledgements](#acknowledgements)
+- [📝 License](#%f0%9f%93%9d-license)
+
+<!-- ABOUT THE PROJECT -->
+
+## Installation
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -37,32 +96,68 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Built With
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project was built using these technologies.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Blockstack
+- MongoDB
+- React
+- VsCode
 
-### Code Splitting
+<!-- CONTACT -->
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Contributors
 
-### Analyzing the Bundle Size
+👤 **Patrick Nyatindo**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- LinkedIn: [Dickens Juma](https://www.linkedin.com/in/nyatindopatrick/)
+- GitHub: [@DickensJuma](https://github.com/Patricknyatindo)
+- Twitter: [@juma_dickens](https://twitter.com/patricknyatindo)
+- E-mail: nyatindopatrick@gmail.com
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Contributors
 
-### Advanced Configuration
+👤 **Dickens Juma**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+- LinkedIn: [Dickens Juma](https://www.linkedin.com/in/dickens-juma-363061182/)
+- GitHub: [@DickensJuma](https://github.com/DickensJuma)
+- Twitter: [@juma_dickens](https://twitter.com/juma_dickens)
+- E-mail: dickensjuma13@gmail.com
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+## Show your support
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Give a ⭐️ if you like this project!
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [BlockStack](https://www.blockstack.org/)
+- [MongoDB](https://www.mongodb.com/)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/DickensJuma/Newsweek.svg?style=flat-square
+[contributors-url]: https://github.com/DickensJuma/bodasafe/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DickensJuma/Newsweek.svg?style=flat-square
+[forks-url]: https://github.com/DickensJuma/bodasafe/network/members
+[stars-shield]: https://img.shields.io/github/stars/DickensJuma/Newsweek.svg?style=flat-square
+[stars-url]: https://github.com/DickensJuma/bodasafe/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DickensJuma/Newsweek.svg?style=flat-square
+[issues-url]: https://github.com/DickensJuma/bodasafe/issues
+[product-screenshot]: images/newsweek-screenshot.png
+
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
+
+
+
+
+
