@@ -32,8 +32,7 @@
     <a href="https://github.com/DickensJuma/bodasafe"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="
-    ">View Demo</a>
+
     ·
     <a href="https://github.com/DickensJuma/bodasafe/issues">Report Bug</a>
     ·
@@ -57,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## Installation
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [ npx generator-blockstack --react](https://docs.blockstack.org/browser/hello-blockstack.html).
 
 ## Available Scripts
 
@@ -150,7 +149,7 @@ Give a ⭐️ if you like this project!
 [stars-url]: https://github.com/DickensJuma/bodasafe/stargazers
 [issues-shield]: https://img.shields.io/github/issues/DickensJuma/Newsweek.svg?style=flat-square
 [issues-url]: https://github.com/DickensJuma/bodasafe/issues
-[product-screenshot]: images/newsweek-screenshot.png
+
 
 ## 📝 License
 
